@@ -9,7 +9,7 @@
 
 ## Documentation
 
-Documentation for `1.*` [here](http://jwt-auth.com)
+Documentation for `1.*` [here](https://jwt-auth.com)
 
 For version `0.5.*` See the [WIKI](https://github.com/tymondesigns/jwt-auth/wiki) for documentation.
 
